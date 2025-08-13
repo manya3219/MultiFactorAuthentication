@@ -1,6 +1,6 @@
 # Full-Stack MFA with React, Node.js, Express, Passport.js & Speakeasy
 
-A comprehensive tutorial project that implements **multi-factor authentication (MFA)** using React, Node.js, and other tools—based on this video: [Watch the tutorial](https://www.youtube.com/watch?v=opXWwDrvyFY).
+
 
 ---
 
