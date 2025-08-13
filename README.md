@@ -18,10 +18,8 @@
 ##  Installation & Setup
 
 ```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
 
 # Install dependencies for both front-end and back-end
 cd client && npm install
-cd ../server && npm install
+cd server && npm install
